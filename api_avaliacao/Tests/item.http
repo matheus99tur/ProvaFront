@@ -11,6 +11,6 @@ Content-Type: application/json
     "categoriaId" : 1
 }
 
-### Listar categorias
+### Listar itens
 GET {{url_base}}/listar
 Authorization: Bearer {{token}}
